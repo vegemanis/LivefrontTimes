@@ -1,0 +1,31 @@
+{
+  "configurations" : [
+    {
+      "id" : "D696005E-116F-4462-807A-BEC560E49B00",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:LivefrontTimes.xcodeproj",
+        "identifier" : "57BACCB92AC3046C00820A9F",
+        "name" : "LivefrontTimesTests"
+      }
+    },
+    {
+      "target" : {
+        "containerPath" : "container:LivefrontTimes.xcodeproj",
+        "identifier" : "577BC1472AC436AB0086E89E",
+        "name" : "LivefrontTimesUITests"
+      }
+    }
+  ],
+  "version" : 1
+}

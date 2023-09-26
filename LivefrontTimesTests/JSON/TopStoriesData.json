@@ -1,0 +1,2356 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2023 The New York Times Company. All Rights Reserved.",
+   "section":"World News",
+   "last_updated":"2023-09-26T08:42:05-04:00",
+   "num_results":37,
+   "results":[
+      {
+         "section":"",
+         "subsection":"",
+         "title":"",
+         "abstract":"",
+         "url":"",
+         "uri":"nyt://promo/a4a8b6d3-b531-5b24-af42-775bf0b2b8d5",
+         "byline":"",
+         "item_type":"Promo",
+         "updated_date":"2023-09-26T08:42:05-04:00",
+         "created_date":"2023-09-26T06:09:40-04:00",
+         "published_date":"2023-09-26T06:09:40-04:00",
+         "material_type_facet":"",
+         "kicker":"",
+         "des_facet":[
+
+         ],
+         "org_facet":[
+
+         ],
+         "per_facet":[
+
+         ],
+         "geo_facet":[
+
+         ],
+         "multimedia":[
+            {
+               "url":"https://example.com",
+               "format":"Super Jumbo",
+               "height":1366,
+               "width":2048,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"A man visiting the grave of his son, a Ukrainian soldier who was killed this month, at Lisove Cemetery in Kyiv on Monday.",
+               "copyright":"Brendan Hoffman for The New York Times"
+            },
+            {
+               "url":"https://example.com",
+               "format":"threeByTwoSmallAt2X",
+               "height":400,
+               "width":600,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"A man visiting the grave of his son, a Ukrainian soldier who was killed this month, at Lisove Cemetery in Kyiv on Monday.",
+               "copyright":"Brendan Hoffman for The New York Times"
+            },
+            {
+               "url":"https://example.com",
+               "format":"Large Thumbnail",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"A man visiting the grave of his son, a Ukrainian soldier who was killed this month, at Lisove Cemetery in Kyiv on Monday.",
+               "copyright":"Brendan Hoffman for The New York Times"
+            }
+         ],
+         "short_url":""
+      },
+      {
+         "section":"world",
+         "subsection":"europe",
+         "title":"In a Port City Severed From the Sea, Young Sailors Feel Adrift",
+         "abstract":"With Russia trying to maintain military control of the Black Sea, Odesa is disconnected from its waters — and its history.",
+         "url":"https://www.nytimes.com/2023/09/26/world/europe/ukraine-russia-war-odesa.html",
+         "uri":"nyt://article/852b8142-f7f9-5fbf-8614-8e90b0a4fe71",
+         "byline":"By Marc Santora and Laetitia Vancon",
+         "item_type":"Article",
+         "updated_date":"2023-09-26T06:32:15-04:00",
+         "created_date":"2023-09-26T00:00:34-04:00",
+         "published_date":"2023-09-26T00:00:34-04:00",
+         "material_type_facet":"",
+         "kicker":"Odesa Dispatch",
+         "des_facet":[
+            "Russian Invasion of Ukraine (2022)"
+         ],
+         "org_facet":[
+
+         ],
+         "per_facet":[
+
+         ],
+         "geo_facet":[
+            "Black Sea",
+            "Crimea (Ukraine)",
+            "Odessa (Ukraine)",
+            "Russia",
+            "Ukraine"
+         ],
+         "multimedia":[
+            {
+               "url":"https://example.com",
+               "format":"Super Jumbo",
+               "height":1536,
+               "width":2048,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Students at the Marinesko Maritime Professional College in Odesa, Ukraine, during their first day of school earlier this month.",
+               "copyright":"Laetitia Vancon for The New York Times"
+            },
+            {
+               "url":"https://example.com",
+               "format":"threeByTwoSmallAt2X",
+               "height":400,
+               "width":600,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Students at the Marinesko Maritime Professional College in Odesa, Ukraine, during their first day of school earlier this month.",
+               "copyright":"Laetitia Vancon for The New York Times"
+            },
+            {
+               "url":"https://example.com",
+               "format":"Large Thumbnail",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Students at the Marinesko Maritime Professional College in Odesa, Ukraine, during their first day of school earlier this month.",
+               "copyright":"Laetitia Vancon for The New York Times"
+            }
+         ],
+         "short_url":"https://nyti.ms/3LZLTZB"
+      },
+      {
+         "section":"world",
+         "subsection":"americas",
+         "title":"After Taking Away Critics’ Citizenship, a Country Takes Their Houses",
+         "abstract":"Nicaragua’s government has begun confiscating the homes of former political prisoners and dissidents forced into exile, just as the country did in the 1980s.",
+         "url":"https://www.nytimes.com/2023/09/26/world/americas/nicaragua-political-prisoners-housing.html",
+         "uri":"nyt://article/bb7490dd-eaa2-557e-9192-088d1bcea876",
+         "byline":"By Frances Robles",
+         "item_type":"Article",
+         "updated_date":"2023-09-26T02:04:52-04:00",
+         "created_date":"2023-09-26T00:01:16-04:00",
+         "published_date":"2023-09-26T00:01:16-04:00",
+         "material_type_facet":"",
+         "kicker":"",
+         "des_facet":[
+            "Politics and Government",
+            "Human Rights and Human Rights Violations",
+            "Real Estate and Housing (Residential)",
+            "Political Prisoners",
+            "Citizenship and Naturalization"
+         ],
+         "org_facet":[
+
+         ],
+         "per_facet":[
+            "Murillo, Rosario",
+            "Ortega, Daniel"
+         ],
+         "geo_facet":[
+            "Nicaragua"
+         ],
+         "multimedia":[
+            {
+               "url":"https://example.com",
+               "format":"Super Jumbo",
+               "height":1365,
+               "width":2048,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"A poster with an image of Daniel Ortega and his wife, Vice President Rosario Murillo, in Managua. Mr. Ortega’s autocratic government has stepped up its campaign against opponents.",
+               "copyright":"Oswaldo Rivas/Agence France-Presse — Getty Images"
+            },
+            {
+               "url":"https://example.com",
+               "format":"threeByTwoSmallAt2X",
+               "height":400,
+               "width":600,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"A poster with an image of Daniel Ortega and his wife, Vice President Rosario Murillo, in Managua. Mr. Ortega’s autocratic government has stepped up its campaign against opponents.",
+               "copyright":"Oswaldo Rivas/Agence France-Presse — Getty Images"
+            },
+            {
+               "url":"https://example.com",
+               "format":"Large Thumbnail",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"A poster with an image of Daniel Ortega and his wife, Vice President Rosario Murillo, in Managua. Mr. Ortega’s autocratic government has stepped up its campaign against opponents.",
+               "copyright":"Oswaldo Rivas/Agence France-Presse — Getty Images"
+            }
+         ],
+         "short_url":"https://nyti.ms/3rkV93l"
+      },
+      {
+         "section":"world",
+         "subsection":"europe",
+         "title":"What to Know About 5 People Suspected of Spying for Russia in the U.K.",
+         "abstract":"Three men and two women, all citizens of Bulgaria, will appear in court on Tuesday after being charged with conspiracy to conduct espionage.",
+         "url":"https://www.nytimes.com/2023/09/26/world/europe/bulgarian-spying-charges-uk-russia.html",
+         "uri":"nyt://article/2d9772c1-1d7b-5aa8-810e-83c1b59632cb",
+         "byline":"By Stephen Castle",
+         "item_type":"Article",
+         "updated_date":"2023-09-26T05:04:16-04:00",
+         "created_date":"2023-09-26T04:59:14-04:00",
+         "published_date":"2023-09-26T04:59:14-04:00",
+         "material_type_facet":"",
+         "kicker":"",
+         "des_facet":[
+            "Espionage and Intelligence Services",
+            "International Relations"
+         ],
+         "org_facet":[
+            "Crown Prosecution Service",
+            "Scotland Yard (Metropolitan Police Service)"
+         ],
+         "per_facet":[
+
+         ],
+         "geo_facet":[
+            "England",
+            "London (England)",
+            "Great Britain",
+            "Russia",
+            "Bulgaria"
+         ],
+         "multimedia":[
+            {
+               "url":"https://static01.nyt.com/images/2023/09/26/world/26uk-spying/26uk-spying-superJumbo.jpg",
+               "format":"Super Jumbo",
+               "height":1366,
+               "width":2048,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Westminster Magistrates’ Court in London in 2021. The preliminary hearing on Tuesday follows an investigation by the police counterterrorism command.",
+               "copyright":"Hasan Esen/Anadolu Agency, via Getty Images"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2023/09/26/world/26uk-spying/26uk-spying-threeByTwoSmallAt2X.jpg",
+               "format":"threeByTwoSmallAt2X",
+               "height":400,
+               "width":600,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Westminster Magistrates’ Court in London in 2021. The preliminary hearing on Tuesday follows an investigation by the police counterterrorism command.",
+               "copyright":"Hasan Esen/Anadolu Agency, via Getty Images"
+            },
+            {
+               "url":"https://example.com",
+               "format":"Large Thumbnail",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Westminster Magistrates’ Court in London in 2021. The preliminary hearing on Tuesday follows an investigation by the police counterterrorism command.",
+               "copyright":"Hasan Esen/Anadolu Agency, via Getty Images"
+            }
+         ],
+         "short_url":"https://nyti.ms/3LB3ZAK"
+      },
+      {
+         "section":"world",
+         "subsection":"europe",
+         "title":"At Least 20 Dead After Explosion at Nagorno-Karabakh Fuel Depot",
+         "abstract":"The cause of the blast in the breakaway region of Azerbaijan, where thousands have been fleeing for Armenia, was not immediately clear. Hundreds were wounded.",
+         "url":"https://www.nytimes.com/2023/09/26/world/europe/azerbaijan-nagorno-karabakh-explosion.html",
+         "uri":"nyt://article/483c2be1-b4d5-57e3-a1c4-53632ca0fbc8",
+         "byline":"By Ivan Nechepurenko and Andrés R. Martínez",
+         "item_type":"Article",
+         "updated_date":"2023-09-26T07:55:22-04:00",
+         "created_date":"2023-09-26T02:44:40-04:00",
+         "published_date":"2023-09-26T02:44:40-04:00",
+         "material_type_facet":"",
+         "kicker":"",
+         "des_facet":[
+            "War and Armed Conflicts",
+            "Explosions (Accidental)"
+         ],
+         "org_facet":[
+
+         ],
+         "per_facet":[
+
+         ],
+         "geo_facet":[
+            "Nagorno-Karabakh",
+            "Armenia",
+            "Azerbaijan",
+            "Stepanakert (Nagorno-Karabakh Republic)"
+         ],
+         "multimedia":[
+            {
+               "url":"https://static01.nyt.com/images/2023/09/26/multimedia/26nagorno-blast-kqbz/26nagorno-blast-kqbz-superJumbo.jpg",
+               "format":"Super Jumbo",
+               "height":1365,
+               "width":2048,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"The aftermath of the explosion in Stepanakert, capital of the breakaway Nagorno-Karabakh region of Azerbaijan, on Monday night.",
+               "copyright":"Republic Of Artsakh Ministry Of Internal Affairs, via Reuters"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2023/09/26/multimedia/26nagorno-blast-kqbz/26nagorno-blast-kqbz-threeByTwoSmallAt2X.jpg",
+               "format":"threeByTwoSmallAt2X",
+               "height":400,
+               "width":600,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"The aftermath of the explosion in Stepanakert, capital of the breakaway Nagorno-Karabakh region of Azerbaijan, on Monday night.",
+               "copyright":"Republic Of Artsakh Ministry Of Internal Affairs, via Reuters"
+            },
+            {
+               "url":"https://example.com",
+               "format":"Large Thumbnail",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"The aftermath of the explosion in Stepanakert, capital of the breakaway Nagorno-Karabakh region of Azerbaijan, on Monday night.",
+               "copyright":"Republic Of Artsakh Ministry Of Internal Affairs, via Reuters"
+            }
+         ],
+         "short_url":"https://nyti.ms/3Zuyjmc"
+      },
+      {
+         "section":"world",
+         "subsection":"asia",
+         "title":"Tensions With China Cross a New Line in the South China Sea",
+         "abstract":"The Philippines is pushing back against China’s territorial claims. But Chinese forces have been unrelenting in using direct confrontation, raising worries about an escalation.",
+         "url":"https://www.nytimes.com/2023/09/26/world/asia/china-philippines-sea.html",
+         "uri":"nyt://article/090a87f5-e943-5367-a9a3-2130c3acda90",
+         "byline":"By Sui-Lee Wee",
+         "item_type":"Article",
+         "updated_date":"2023-09-26T07:07:10-04:00",
+         "created_date":"2023-09-26T06:06:24-04:00",
+         "published_date":"2023-09-26T06:06:24-04:00",
+         "material_type_facet":"",
+         "kicker":"News Analysis",
+         "des_facet":[
+            "International Relations",
+            "Defense and Military Forces",
+            "United States Defense and Military Forces",
+            "Territorial Disputes",
+            "Fishing, Commercial"
+         ],
+         "org_facet":[
+
+         ],
+         "per_facet":[
+            "Marcos, Ferdinand Jr",
+            "Austin, Lloyd J III"
+         ],
+         "geo_facet":[
+            "Philippines",
+            "Far East, South and Southeast Asia and Pacific Areas",
+            "South China Sea",
+            "Spratly Islands",
+            "Paracel Islands",
+            "Masinloc (Philippines)"
+         ],
+         "multimedia":[
+            {
+               "url":"https://static01.nyt.com/images/2023/09/26/multimedia/26philippines-china-jkmp/26philippines-china-jkmp-superJumbo.jpg",
+               "format":"Super Jumbo",
+               "height":1029,
+               "width":1543,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Chinese Coast Guard boats sailing close to a floating barrier near the Scarborough Shoal in the South China Sea in September.",
+               "copyright":"Philippine Coast Guard, via Reuters"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2023/09/26/multimedia/26philippines-china-jkmp/26philippines-china-jkmp-threeByTwoSmallAt2X.jpg",
+               "format":"threeByTwoSmallAt2X",
+               "height":400,
+               "width":600,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Chinese Coast Guard boats sailing close to a floating barrier near the Scarborough Shoal in the South China Sea in September.",
+               "copyright":"Philippine Coast Guard, via Reuters"
+            },
+            {
+               "url":"https://example.com",
+               "format":"Large Thumbnail",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Chinese Coast Guard boats sailing close to a floating barrier near the Scarborough Shoal in the South China Sea in September.",
+               "copyright":"Philippine Coast Guard, via Reuters"
+            }
+         ],
+         "short_url":"https://nyti.ms/48vSuEE"
+      },
+      {
+         "section":"world",
+         "subsection":"europe",
+         "title":"Finland Raced to Join NATO. What Happens Next Is Complicated.",
+         "abstract":"After decades of going it alone in security issues, Finns are finding that life in a large alliance is complex, expensive and deeply political.",
+         "url":"https://www.nytimes.com/2023/09/25/world/europe/finland-nato-integration-nordics.html",
+         "uri":"nyt://article/66829464-2d7e-52d4-a973-ecdf47694f2f",
+         "byline":"By Steven Erlanger",
+         "item_type":"Article",
+         "updated_date":"2023-09-26T08:46:44-04:00",
+         "created_date":"2023-09-25T05:02:25-04:00",
+         "published_date":"2023-09-25T05:02:25-04:00",
+         "material_type_facet":"",
+         "kicker":"",
+         "des_facet":[
+            "International Relations",
+            "Defense and Military Forces",
+            "Russian Invasion of Ukraine (2022)"
+         ],
+         "org_facet":[
+            "North Atlantic Treaty Organization"
+         ],
+         "per_facet":[
+
+         ],
+         "geo_facet":[
+            "Finland",
+            "Arctic Regions",
+            "Nordic Countries",
+            "Baltic Region",
+            "Russia",
+            "Ukraine"
+         ],
+         "multimedia":[
+            {
+               "url":"https://static01.nyt.com/images/2023/09/25/multimedia/25finland-nato-topart-hbzf/25finland-nato-topart-hbzf-superJumbo.jpg",
+               "format":"Super Jumbo",
+               "height":1365,
+               "width":2048,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Finnish soldiers participating in a military exercise in Rovajarvi, Finland, in May. Finland joined the NATO alliance in April of this year, ending decades of military nonalignment.",
+               "copyright":"Janis Laizans/Reuters"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2023/09/25/multimedia/25finland-nato-topart-hbzf/25finland-nato-topart-hbzf-threeByTwoSmallAt2X.jpg",
+               "format":"threeByTwoSmallAt2X",
+               "height":400,
+               "width":600,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Finnish soldiers participating in a military exercise in Rovajarvi, Finland, in May. Finland joined the NATO alliance in April of this year, ending decades of military nonalignment.",
+               "copyright":"Janis Laizans/Reuters"
+            },
+            {
+               "url":"https://example.com",
+               "format":"Large Thumbnail",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Finnish soldiers participating in a military exercise in Rovajarvi, Finland, in May. Finland joined the NATO alliance in April of this year, ending decades of military nonalignment.",
+               "copyright":"Janis Laizans/Reuters"
+            }
+         ],
+         "short_url":"https://nyti.ms/3PDc5u2"
+      },
+      {
+         "section":"world",
+         "subsection":"americas",
+         "title":"A New Border Crossing: Americans Turn to Mexico for Abortions",
+         "abstract":"American women are seeking help from Mexico for abortions, crystallizing the shifting policies of two nations that once held vastly different positions on the procedure.",
+         "url":"https://www.nytimes.com/2023/09/25/world/americas/mexico-abortion-women-border.html",
+         "uri":"nyt://article/7bf81a92-116e-54d7-8752-f25caa0e13b9",
+         "byline":"By Zolan Kanno-Youngs and Edyra Espriella",
+         "item_type":"Article",
+         "updated_date":"2023-09-25T23:15:32-04:00",
+         "created_date":"2023-09-25T05:01:58-04:00",
+         "published_date":"2023-09-25T05:01:58-04:00",
+         "material_type_facet":"",
+         "kicker":"",
+         "des_facet":[
+            "Abortion",
+            "Women and Girls"
+         ],
+         "org_facet":[
+            "Supreme Court (US)",
+            "Supreme Court of Mexico",
+            "National Right to Life Committee"
+         ],
+         "per_facet":[
+
+         ],
+         "geo_facet":[
+            "Mexico",
+            "Latin America",
+            "Sonora (Mexico)"
+         ],
+         "multimedia":[
+            {
+               "url":"https://static01.nyt.com/images/2023/09/20/multimedia/00mexico-abortion-01-vfkt/00mexico-abortion-01-vfkt-superJumbo.jpg",
+               "format":"Super Jumbo",
+               "height":1383,
+               "width":2048,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Women in Saltillo, Mexico, celebrate a court ruling that declared criminalization of abortion illegal in 2021. Mexican abortion-rights activists are seeing American women who seek abortions turning to Mexico.",
+               "copyright":"Daniel Becerril/Reuters"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2023/09/20/multimedia/00mexico-abortion-01-vfkt/00mexico-abortion-01-vfkt-threeByTwoSmallAt2X.jpg",
+               "format":"threeByTwoSmallAt2X",
+               "height":400,
+               "width":600,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Women in Saltillo, Mexico, celebrate a court ruling that declared criminalization of abortion illegal in 2021. Mexican abortion-rights activists are seeing American women who seek abortions turning to Mexico.",
+               "copyright":"Daniel Becerril/Reuters"
+            },
+            {
+               "url":"https://example.com",
+               "format":"Large Thumbnail",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Women in Saltillo, Mexico, celebrate a court ruling that declared criminalization of abortion illegal in 2021. Mexican abortion-rights activists are seeing American women who seek abortions turning to Mexico.",
+               "copyright":"Daniel Becerril/Reuters"
+            }
+         ],
+         "short_url":"https://nyti.ms/3RAiM2y"
+      },
+      {
+         "section":"world",
+         "subsection":"europe",
+         "title":"In Romania, the Traumas of a Bloody Revolution Still Cast a Long Shadow",
+         "abstract":"People struggling for justice for family members killed in the 1989 uprising say that servants of the Ceausescu regime have blocked any reckoning with the past.",
+         "url":"https://www.nytimes.com/2023/09/25/world/europe/romania-1989-revolution.html",
+         "uri":"nyt://article/dc271ef3-90ae-5d19-bb5c-e500947a52f5",
+         "byline":"By Andrew Higgins",
+         "item_type":"Article",
+         "updated_date":"2023-09-25T23:01:55-04:00",
+         "created_date":"2023-09-25T05:00:43-04:00",
+         "published_date":"2023-09-25T05:00:43-04:00",
+         "material_type_facet":"",
+         "kicker":"",
+         "des_facet":[
+            "Politics and Government",
+            "Demonstrations, Protests and Riots",
+            "Families and Family Life"
+         ],
+         "org_facet":[
+
+         ],
+         "per_facet":[
+            "Ceausescu, Nicolae"
+         ],
+         "geo_facet":[
+            "Romania",
+            "Transylvania (Romania)"
+         ],
+         "multimedia":[
+            {
+               "url":"https://static01.nyt.com/images/2023/08/29/multimedia/29Romania-revolution-01-gwpf/29Romania-revolution-01-gwpf-superJumbo.jpg",
+               "format":"Super Jumbo",
+               "height":1365,
+               "width":2048,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"A cemetery in Brasov, Romania, where Florin Negru and others killed in 1989 are buried.",
+               "copyright":"Andreea Campeanu for The New York Times"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2023/08/29/multimedia/29Romania-revolution-01-gwpf/29Romania-revolution-01-gwpf-threeByTwoSmallAt2X.jpg",
+               "format":"threeByTwoSmallAt2X",
+               "height":400,
+               "width":600,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"A cemetery in Brasov, Romania, where Florin Negru and others killed in 1989 are buried.",
+               "copyright":"Andreea Campeanu for The New York Times"
+            },
+            {
+               "url":"https://example.com",
+               "format":"Large Thumbnail",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"A cemetery in Brasov, Romania, where Florin Negru and others killed in 1989 are buried.",
+               "copyright":"Andreea Campeanu for The New York Times"
+            }
+         ],
+         "short_url":"https://nyti.ms/3RuUln7"
+      },
+      {
+         "section":"world",
+         "subsection":"europe",
+         "title":"Some London Police Officers Step Back From Armed Duty After Murder Charge",
+         "abstract":"After a fellow officer was charged with murder in the death of a Black man, several armed officers refused to carry firearms in protest, the Metropolitan Police Service said.",
+         "url":"https://www.nytimes.com/2023/09/25/world/europe/london-police-murder-chris-kaba.html",
+         "uri":"nyt://article/e4d477f7-d73e-50e8-9540-4751800634a0",
+         "byline":"By Megan Specia",
+         "item_type":"Article",
+         "updated_date":"2023-09-25T23:05:47-04:00",
+         "created_date":"2023-09-25T12:13:02-04:00",
+         "published_date":"2023-09-25T12:13:02-04:00",
+         "material_type_facet":"",
+         "kicker":"",
+         "des_facet":[
+            "Police",
+            "Police Brutality, Misconduct and Shootings",
+            "Murders, Attempted Murders and Homicides",
+            "Black People"
+         ],
+         "org_facet":[
+            "Ministry of Defense (Great Britain)",
+            "Scotland Yard (Metropolitan Police Service)"
+         ],
+         "per_facet":[
+            "Braverman, Suella",
+            "Kaba, Chris (d 2022)"
+         ],
+         "geo_facet":[
+            "London (England)"
+         ],
+         "multimedia":[
+            {
+               "url":"https://static01.nyt.com/images/2023/09/25/multimedia/25uk-firearm-01-whqc/25uk-firearm-01-whqc-superJumbo.jpg",
+               "format":"Super Jumbo",
+               "height":1366,
+               "width":2048,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Armed police officers standing guard outside St. Paul’s Cathedral in London last year.",
+               "copyright":"Andrew Testa for The New York Times"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2023/09/25/multimedia/25uk-firearm-01-whqc/25uk-firearm-01-whqc-threeByTwoSmallAt2X.jpg",
+               "format":"threeByTwoSmallAt2X",
+               "height":400,
+               "width":600,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Armed police officers standing guard outside St. Paul’s Cathedral in London last year.",
+               "copyright":"Andrew Testa for The New York Times"
+            },
+            {
+               "url":"https://example.com",
+               "format":"Large Thumbnail",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Armed police officers standing guard outside St. Paul’s Cathedral in London last year.",
+               "copyright":"Andrew Testa for The New York Times"
+            }
+         ],
+         "short_url":"https://nyti.ms/46tkRBD"
+      },
+      {
+         "section":"world",
+         "subsection":"europe",
+         "title":"Irish Gymnastics Body Apologizes After Black Girl Is Shunned at Ceremony",
+         "abstract":"A video of the medals ceremony fueled indignation online, and drew criticism from the seven-time Olympic medalist Simone Biles.",
+         "url":"https://www.nytimes.com/2023/09/25/world/europe/irish-gymnast-black-medal-apology.html",
+         "uri":"nyt://article/ba15a122-efc7-56c1-84a5-6d054d31803b",
+         "byline":"By Emma Bubola",
+         "item_type":"Article",
+         "updated_date":"2023-09-25T23:05:03-04:00",
+         "created_date":"2023-09-25T11:37:46-04:00",
+         "published_date":"2023-09-25T11:37:46-04:00",
+         "material_type_facet":"",
+         "kicker":"",
+         "des_facet":[
+            "Black People",
+            "Discrimination",
+            "Apologies",
+            "Social Media",
+            "Video Recordings, Downloads and Streaming"
+         ],
+         "org_facet":[
+
+         ],
+         "per_facet":[
+            "Biles, Simone"
+         ],
+         "geo_facet":[
+
+         ],
+         "multimedia":null,
+         "short_url":"https://nyti.ms/3PxB2Xr"
+      },
+      {
+         "section":"world",
+         "subsection":"asia",
+         "title":"They Want to Be K-Pop Stars. But They Won’t Hide Who They Are.",
+         "abstract":"In conservative South Korea, few L.G.B.T.Q. entertainers have ever come out. The young members of QI.X don’t see the point of staying in.",
+         "url":"https://www.nytimes.com/2023/09/24/world/asia/kpop-lgbtq-qix-korea.html",
+         "uri":"nyt://article/64657459-7f5b-5efd-b0a3-54a21bcd2a28",
+         "byline":"By Chang W. Lee and Jin Yu Young",
+         "item_type":"Article",
+         "updated_date":"2023-09-25T15:54:33-04:00",
+         "created_date":"2023-09-24T05:00:22-04:00",
+         "published_date":"2023-09-24T05:00:22-04:00",
+         "material_type_facet":"",
+         "kicker":"",
+         "des_facet":[
+            "K-Pop",
+            "Homosexuality and Bisexuality",
+            "Transgender"
+         ],
+         "org_facet":[
+            "QI.X (Music Group)"
+         ],
+         "per_facet":[
+
+         ],
+         "geo_facet":[
+            "South Korea"
+         ],
+         "multimedia":[
+            {
+               "url":"https://static01.nyt.com/images/2023/09/21/multimedia/00kpop-lgbtq-vpwc/00kpop-lgbtq-vpwc-superJumbo.jpg",
+               "format":"Super Jumbo",
+               "height":1410,
+               "width":2048,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"From left, Prin, SEN and jiGook of QI.X on a rooftop in Seoul. They call themselves one of the first openly queer, transgender K-pop acts.",
+               "copyright":""
+            },
+            {
+               "url":"https://static01.nyt.com/images/2023/09/21/multimedia/00kpop-lgbtq-vpwc/00kpop-lgbtq-vpwc-threeByTwoSmallAt2X.jpg",
+               "format":"threeByTwoSmallAt2X",
+               "height":400,
+               "width":600,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"From left, Prin, SEN and jiGook of QI.X on a rooftop in Seoul. They call themselves one of the first openly queer, transgender K-pop acts.",
+               "copyright":""
+            },
+            {
+               "url":"https://example.com",
+               "format":"Large Thumbnail",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"From left, Prin, SEN and jiGook of QI.X on a rooftop in Seoul. They call themselves one of the first openly queer, transgender K-pop acts.",
+               "copyright":""
+            }
+         ],
+         "short_url":"https://nyti.ms/3PQOVBF"
+      },
+      {
+         "section":"world",
+         "subsection":"americas",
+         "title":"Why Are So Many Venezuelans Going to the United States?",
+         "abstract":"Unable to build safe or stable lives in other parts of South America, many people are making the perilous journey to the United States.",
+         "url":"https://www.nytimes.com/2023/09/24/world/americas/why-are-so-many-venezuelans-going-to-the-united-states.html",
+         "uri":"nyt://article/68681a11-17bd-5c29-a5de-e7483178a6bb",
+         "byline":"By Julie Turkewitz and Isayen Herrera",
+         "item_type":"Article",
+         "updated_date":"2023-09-25T00:11:05-04:00",
+         "created_date":"2023-09-24T05:01:52-04:00",
+         "published_date":"2023-09-24T05:01:52-04:00",
+         "material_type_facet":"",
+         "kicker":"",
+         "des_facet":[
+            "International Relations",
+            "Illegal Immigration"
+         ],
+         "org_facet":[
+
+         ],
+         "per_facet":[
+            "Maduro, Nicolas"
+         ],
+         "geo_facet":[
+            "South America",
+            "Venezuela",
+            "United States"
+         ],
+         "multimedia":[
+            {
+               "url":"https://static01.nyt.com/images/2023/09/23/multimedia/00venezuela-migration-01-bhqc/00venezuela-migration-01-bhqc-superJumbo.jpg",
+               "format":"Super Jumbo",
+               "height":1366,
+               "width":2048,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Venezuelans crossing from Mexico into the United States in May. ",
+               "copyright":"Alejandro Cegarra for The New York Times"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2023/09/23/multimedia/00venezuela-migration-01-bhqc/00venezuela-migration-01-bhqc-threeByTwoSmallAt2X.jpg",
+               "format":"threeByTwoSmallAt2X",
+               "height":400,
+               "width":600,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Venezuelans crossing from Mexico into the United States in May. ",
+               "copyright":"Alejandro Cegarra for The New York Times"
+            },
+            {
+               "url":"https://example.com",
+               "format":"Large Thumbnail",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Venezuelans crossing from Mexico into the United States in May. ",
+               "copyright":"Alejandro Cegarra for The New York Times"
+            }
+         ],
+         "short_url":"https://nyti.ms/48jGV38"
+      },
+      {
+         "section":"world",
+         "subsection":"europe",
+         "title":"Clams Ruled This Town Until the Crabs Moved In",
+         "abstract":"Goro, on the Adriatic Sea, is famous for its clams — essential for the beloved spaghetti alle vongole. But an infestation of crabs is threatening the town’s cash crop.",
+         "url":"https://www.nytimes.com/2023/09/24/world/europe/italy-crabs-clams.html",
+         "uri":"nyt://article/b67ece63-d5bf-5769-bc77-5564902d3d07",
+         "byline":"By Jason Horowitz",
+         "item_type":"Article",
+         "updated_date":"2023-09-25T13:08:43-04:00",
+         "created_date":"2023-09-24T05:01:34-04:00",
+         "published_date":"2023-09-24T05:01:34-04:00",
+         "material_type_facet":"",
+         "kicker":"Italy Dispatch",
+         "des_facet":[
+            "Clams",
+            "Crabs"
+         ],
+         "org_facet":[
+
+         ],
+         "per_facet":[
+
+         ],
+         "geo_facet":[
+            "Adriatic Sea",
+            "Goro (Italy)"
+         ],
+         "multimedia":[
+            {
+               "url":"https://static01.nyt.com/images/2023/09/24/multimedia/24italy-crabs-dispatch-01-zqht/24italy-crabs-dispatch-01-zqht-superJumbo.jpg",
+               "format":"Super Jumbo",
+               "height":1365,
+               "width":2048,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Massimo Genari, left, and other fishermen this month checking out how many blue crabs they pulled from the lagoon in Goro, Italy, a town on the Adriatic Sea.",
+               "copyright":"Elisabetta Zavoli for The New York Times"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2023/09/24/multimedia/24italy-crabs-dispatch-01-zqht/24italy-crabs-dispatch-01-zqht-threeByTwoSmallAt2X.jpg",
+               "format":"threeByTwoSmallAt2X",
+               "height":400,
+               "width":600,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Massimo Genari, left, and other fishermen this month checking out how many blue crabs they pulled from the lagoon in Goro, Italy, a town on the Adriatic Sea.",
+               "copyright":"Elisabetta Zavoli for The New York Times"
+            },
+            {
+               "url":"https://example.com",
+               "format":"Large Thumbnail",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Massimo Genari, left, and other fishermen this month checking out how many blue crabs they pulled from the lagoon in Goro, Italy, a town on the Adriatic Sea.",
+               "copyright":"Elisabetta Zavoli for The New York Times"
+            }
+         ],
+         "short_url":"https://nyti.ms/3RyGGeS"
+      },
+      {
+         "section":"world",
+         "subsection":"europe",
+         "title":"Depleted Uranium Shells Could Help Ukraine. Critics Say It’s Not Worth the Risk.",
+         "abstract":"The material is denser than steel, and shells made from it can penetrate enemy tanks’ armor. But they leave behind radioactive dust that can be harmful.",
+         "url":"https://www.nytimes.com/2023/09/26/world/europe/depleted-uranium-ukraine-ammunition.html",
+         "uri":"nyt://article/6c6ace79-2a3d-51aa-afdd-dc342d261906",
+         "byline":"By Gaya Gupta",
+         "item_type":"Article",
+         "updated_date":"2023-09-26T05:41:22-04:00",
+         "created_date":"2023-09-26T05:41:22-04:00",
+         "published_date":"2023-09-26T05:41:22-04:00",
+         "material_type_facet":"",
+         "kicker":"",
+         "des_facet":[
+            "Uranium",
+            "International Relations",
+            "United States International Relations",
+            "Russian Invasion of Ukraine (2022)"
+         ],
+         "org_facet":[
+
+         ],
+         "per_facet":[
+
+         ],
+         "geo_facet":[
+
+         ],
+         "multimedia":[
+            {
+               "url":"https://static01.nyt.com/images/2023/09/08/multimedia/08ukraine-briefing-uranium-explainer-pvkw/08ukraine-briefing-uranium-explainer-pvkw-superJumbo.jpg",
+               "format":"Super Jumbo",
+               "height":1366,
+               "width":2048,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Ukrainian soldiers setting up a U.S.-manufactured armored vehicle during a counteroffensive operation in the Donetsk region in June.",
+               "copyright":"David Guttenfelder for The New York Times"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2023/09/08/multimedia/08ukraine-briefing-uranium-explainer-pvkw/08ukraine-briefing-uranium-explainer-pvkw-threeByTwoSmallAt2X.jpg",
+               "format":"threeByTwoSmallAt2X",
+               "height":400,
+               "width":600,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Ukrainian soldiers setting up a U.S.-manufactured armored vehicle during a counteroffensive operation in the Donetsk region in June.",
+               "copyright":"David Guttenfelder for The New York Times"
+            },
+            {
+               "url":"https://example.com",
+               "format":"Large Thumbnail",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Ukrainian soldiers setting up a U.S.-manufactured armored vehicle during a counteroffensive operation in the Donetsk region in June.",
+               "copyright":"David Guttenfelder for The New York Times"
+            }
+         ],
+         "short_url":"https://nyti.ms/3RATNw6"
+      },
+      {
+         "section":"world",
+         "subsection":"europe",
+         "title":"Democracy May Be Struggling but the Fight Is Far From Over",
+         "abstract":"The war between Russia and Ukraine may be an extreme example of the fight over which form of government works best for its citizens, but there are others.",
+         "url":"https://www.nytimes.com/2023/09/26/world/europe/democracy-struggle-ukraine.html",
+         "uri":"nyt://article/6f755386-f062-53e9-8ffa-6f31b5f94a04",
+         "byline":"By Serge Schmemann",
+         "item_type":"Article",
+         "updated_date":"2023-09-26T05:01:44-04:00",
+         "created_date":"2023-09-26T05:01:44-04:00",
+         "published_date":"2023-09-26T05:01:44-04:00",
+         "material_type_facet":"",
+         "kicker":"News Analysis",
+         "des_facet":[
+            "Politics and Government",
+            "Democracy (Theory and Philosophy)",
+            "Russian Invasion of Ukraine (2022)",
+            "United States International Relations",
+            "Liberalism (US Politics)"
+         ],
+         "org_facet":[
+
+         ],
+         "per_facet":[
+
+         ],
+         "geo_facet":[
+
+         ],
+         "multimedia":[
+            {
+               "url":"https://static01.nyt.com/images/2023/09/28/multimedia/28sp-democracy-ukraine-inyt-01-qtvm/28sp-democracy-ukraine-inyt-01-qtvm-superJumbo.jpg",
+               "format":"Super Jumbo",
+               "height":1365,
+               "width":2048,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"As Ukraine continues to press its counteroffensive, it reclaimed the village of Neskuchne in August. Western democracies have maintained a high level of support for Ukraine, which the Russian president, Vladimir V. Putin, has described as a struggle against Western values.",
+               "copyright":"Diego Ibarra Sanchez for The New York Times"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2023/09/28/multimedia/28sp-democracy-ukraine-inyt-01-qtvm/28sp-democracy-ukraine-inyt-01-qtvm-threeByTwoSmallAt2X.jpg",
+               "format":"threeByTwoSmallAt2X",
+               "height":400,
+               "width":600,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"As Ukraine continues to press its counteroffensive, it reclaimed the village of Neskuchne in August. Western democracies have maintained a high level of support for Ukraine, which the Russian president, Vladimir V. Putin, has described as a struggle against Western values.",
+               "copyright":"Diego Ibarra Sanchez for The New York Times"
+            },
+            {
+               "url":"https://example.com",
+               "format":"Large Thumbnail",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"As Ukraine continues to press its counteroffensive, it reclaimed the village of Neskuchne in August. Western democracies have maintained a high level of support for Ukraine, which the Russian president, Vladimir V. Putin, has described as a struggle against Western values.",
+               "copyright":"Diego Ibarra Sanchez for The New York Times"
+            }
+         ],
+         "short_url":"https://nyti.ms/3EQaH2b"
+      },
+      {
+         "section":"world",
+         "subsection":"",
+         "title":"Are Universal Values Really Universal?",
+         "abstract":"The belief that individual rights are “self-evident” is being challenged, with large parts of the world instead prioritizing collective benefits.",
+         "url":"https://www.nytimes.com/2023/09/26/world/are-universal-values-really-universal.html",
+         "uri":"nyt://article/20a546c1-7a40-55d0-bfe8-810afdd08716",
+         "byline":"By Steven Erlanger",
+         "item_type":"Article",
+         "updated_date":"2023-09-26T05:00:59-04:00",
+         "created_date":"2023-09-26T05:00:59-04:00",
+         "published_date":"2023-09-26T05:00:59-04:00",
+         "material_type_facet":"",
+         "kicker":"",
+         "des_facet":[
+            "Politics and Government",
+            "International Relations",
+            "Democracy (Theory and Philosophy)",
+            "International Trade and World Market",
+            "Human Rights and Human Rights Violations"
+         ],
+         "org_facet":[
+
+         ],
+         "per_facet":[
+
+         ],
+         "geo_facet":[
+
+         ],
+         "multimedia":[
+            {
+               "url":"https://static01.nyt.com/images/2023/09/28/multimedia/28sp-democracy-view-inytadd-mzwg/28sp-democracy-view-inytadd-mzwg-superJumbo.jpg",
+               "format":"Super Jumbo",
+               "height":1265,
+               "width":2048,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"President Biden speaking before the United Nations General Assembly in New York on Sept. 19.",
+               "copyright":"Dave Sanders for The New York Times"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2023/09/28/multimedia/28sp-democracy-view-inytadd-mzwg/28sp-democracy-view-inytadd-mzwg-threeByTwoSmallAt2X.jpg",
+               "format":"threeByTwoSmallAt2X",
+               "height":400,
+               "width":600,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"President Biden speaking before the United Nations General Assembly in New York on Sept. 19.",
+               "copyright":"Dave Sanders for The New York Times"
+            },
+            {
+               "url":"https://example.com",
+               "format":"Large Thumbnail",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"President Biden speaking before the United Nations General Assembly in New York on Sept. 19.",
+               "copyright":"Dave Sanders for The New York Times"
+            }
+         ],
+         "short_url":"https://nyti.ms/3t8eq8u"
+      },
+      {
+         "section":"world",
+         "subsection":"asia",
+         "title":"One View: Behind China-U.S. Tensions Are Misunderstandings, Author Says",
+         "abstract":"In an interview, the economist Keyu Jin says much of the world is asking the wrong questions — and so is drawing outdated conclusions.",
+         "url":"https://www.nytimes.com/2023/09/26/world/asia/china-us-tensions-keyu-jin-interview.html",
+         "uri":"nyt://article/426c5774-2767-55dd-92e7-fa5efb824434",
+         "byline":"By Farah Nayeri",
+         "item_type":"Article",
+         "updated_date":"2023-09-26T05:00:34-04:00",
+         "created_date":"2023-09-26T05:00:34-04:00",
+         "published_date":"2023-09-26T05:00:34-04:00",
+         "material_type_facet":"",
+         "kicker":"",
+         "des_facet":[
+            "International Relations",
+            "Politics and Government",
+            "Democracy (Theory and Philosophy)",
+            "Economic Conditions and Trends",
+            "Foreign Investments",
+            "United States International Relations",
+            "International Trade and World Market"
+         ],
+         "org_facet":[
+            "London School of Economics"
+         ],
+         "per_facet":[
+            "Jin, Keyu"
+         ],
+         "geo_facet":[
+            "China",
+            "United States"
+         ],
+         "multimedia":[
+            {
+               "url":"https://static01.nyt.com/images/2023/09/28/multimedia/28sp-democracy-china-inyt-fhtl/28sp-democracy-china-inyt-fhtl-superJumbo.jpg",
+               "format":"Super Jumbo",
+               "height":1365,
+               "width":2048,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"The economist Keyu Jin heads the Beijing-based Asian Infrastructure Investment Bank, was educated in the United States and is now an associate professor at the London School of Economics.",
+               "copyright":"Edwin Koo for The New York Times"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2023/09/28/multimedia/28sp-democracy-china-inyt-fhtl/28sp-democracy-china-inyt-fhtl-threeByTwoSmallAt2X.jpg",
+               "format":"threeByTwoSmallAt2X",
+               "height":400,
+               "width":600,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"The economist Keyu Jin heads the Beijing-based Asian Infrastructure Investment Bank, was educated in the United States and is now an associate professor at the London School of Economics.",
+               "copyright":"Edwin Koo for The New York Times"
+            },
+            {
+               "url":"https://example.com",
+               "format":"Large Thumbnail",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"The economist Keyu Jin heads the Beijing-based Asian Infrastructure Investment Bank, was educated in the United States and is now an associate professor at the London School of Economics.",
+               "copyright":"Edwin Koo for The New York Times"
+            }
+         ],
+         "short_url":"https://nyti.ms/3EONgpX"
+      },
+      {
+         "section":"briefing",
+         "subsection":"",
+         "title":"Tuesday Briefing",
+         "abstract":"A blow to the Russian military.",
+         "url":"https://www.nytimes.com/2023/09/26/briefing/crimea-missile-strike-armenia-azerbaijan.html",
+         "uri":"nyt://article/2d554c3e-e453-59c6-8022-74ba52c977d6",
+         "byline":"By Natasha Frost",
+         "item_type":"Article",
+         "updated_date":"2023-09-26T00:40:24-04:00",
+         "created_date":"2023-09-26T00:37:10-04:00",
+         "published_date":"2023-09-26T00:37:10-04:00",
+         "material_type_facet":"",
+         "kicker":"",
+         "des_facet":[
+
+         ],
+         "org_facet":[
+
+         ],
+         "per_facet":[
+
+         ],
+         "geo_facet":[
+
+         ],
+         "multimedia":[
+            {
+               "url":"https://static01.nyt.com/images/2023/09/25/multimedia/26ambriefing-europe-nl-strike/26ambriefing-europe-nl-strike-superJumbo.jpg",
+               "format":"Super Jumbo",
+               "height":2048,
+               "width":2048,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Actors have been on strike since July, with many of the same demands that the writers had.",
+               "copyright":"Jenna Schoenefeld for The New York Times"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2023/09/25/multimedia/26ambriefing-europe-nl-strike/26ambriefing-europe-nl-strike-threeByTwoSmallAt2X.jpg",
+               "format":"threeByTwoSmallAt2X",
+               "height":400,
+               "width":600,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Actors have been on strike since July, with many of the same demands that the writers had.",
+               "copyright":"Jenna Schoenefeld for The New York Times"
+            },
+            {
+               "url":"https://example.com",
+               "format":"Large Thumbnail",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Actors have been on strike since July, with many of the same demands that the writers had.",
+               "copyright":"Jenna Schoenefeld for The New York Times"
+            }
+         ],
+         "short_url":"https://nyti.ms/3Zuuz46"
+      },
+      {
+         "section":"world",
+         "subsection":"europe",
+         "title":"In a Blow to Russia, Ukraine Says It Killed Chief of Black Sea Fleet",
+         "abstract":"As they ramp up attacks on occupied Crimea, Ukrainian forces are repeatedly targeting the fleet based there, a key to Russia’s attacks deep into Ukraine and its blockade of Ukrainian ports.",
+         "url":"https://www.nytimes.com/2023/09/25/world/europe/ukraine-russia-black-sea-fleet.html",
+         "uri":"nyt://article/0fee3c1b-61e0-5721-b890-3f77d2a0d46b",
+         "byline":"By Matthew Mpoke Bigg and Andrew E. Kramer",
+         "item_type":"Article",
+         "updated_date":"2023-09-26T04:12:05-04:00",
+         "created_date":"2023-09-25T19:00:14-04:00",
+         "published_date":"2023-09-25T19:00:14-04:00",
+         "material_type_facet":"",
+         "kicker":"",
+         "des_facet":[
+            "Russian Invasion of Ukraine (2022)",
+            "Defense and Military Forces",
+            "Deaths (Fatalities)",
+            "Missiles and Missile Defense Systems",
+            "Drones (Pilotless Planes)"
+         ],
+         "org_facet":[
+
+         ],
+         "per_facet":[
+            "Viktor Sokolov",
+            "Putin, Vladimir V",
+            "Zelensky, Volodymyr",
+            "Aleksandr Romanchuk",
+            "Oleg Tsekov"
+         ],
+         "geo_facet":[
+            "Black Sea",
+            "Crimea (Ukraine)",
+            "Russia",
+            "Ukraine"
+         ],
+         "multimedia":[
+            {
+               "url":"https://static01.nyt.com/images/2023/09/25/multimedia/25ukraine-ledeall-1-zjch/25ukraine-ledeall-1-zjch-superJumbo.jpg",
+               "format":"Super Jumbo",
+               "height":1365,
+               "width":2048,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Smoke billowing from a building at a headquarters of the Russian Black Sea Fleet in Sevastopol, Crimea, on Friday, after it was struck in a missile attack.",
+               "copyright":"Planet Labs, via Associated Press"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2023/09/25/multimedia/25ukraine-ledeall-1-zjch/25ukraine-ledeall-1-zjch-threeByTwoSmallAt2X.jpg",
+               "format":"threeByTwoSmallAt2X",
+               "height":400,
+               "width":600,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Smoke billowing from a building at a headquarters of the Russian Black Sea Fleet in Sevastopol, Crimea, on Friday, after it was struck in a missile attack.",
+               "copyright":"Planet Labs, via Associated Press"
+            },
+            {
+               "url":"https://example.com",
+               "format":"Large Thumbnail",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Smoke billowing from a building at a headquarters of the Russian Black Sea Fleet in Sevastopol, Crimea, on Friday, after it was struck in a missile attack.",
+               "copyright":"Planet Labs, via Associated Press"
+            }
+         ],
+         "short_url":"https://nyti.ms/3LB6ZgD"
+      },
+      {
+         "section":"world",
+         "subsection":"europe",
+         "title":"In Pricey London, Free Parks Are a Cherished Haven",
+         "abstract":"As housing costs rise, the capital’s extensive green spaces, often described as the “lungs of the city,” offer space and respite to all — when the weather cooperates, that is.",
+         "url":"https://www.nytimes.com/interactive/2023/09/25/world/europe/london-parks.html",
+         "uri":"nyt://interactive/b7d6f831-6b11-54e2-9827-cdef0793651c",
+         "byline":"By Andrew Testa and Isabella Kwai",
+         "item_type":"Interactive",
+         "updated_date":"2023-09-25T22:32:06-04:00",
+         "created_date":"2023-09-25T18:17:52-04:00",
+         "published_date":"2023-09-25T18:17:52-04:00",
+         "material_type_facet":"",
+         "kicker":"",
+         "des_facet":[
+            "Parks and Other Recreation Areas",
+            "Urban Areas",
+            "vis-photo",
+            "vis-design"
+         ],
+         "org_facet":[
+
+         ],
+         "per_facet":[
+
+         ],
+         "geo_facet":[
+            "London (England)"
+         ],
+         "multimedia":[
+            {
+               "url":"https://static01.nyt.com/images/2023/09/25/world/london-parks-promo/london-parks-promo-superJumbo.jpg",
+               "format":"Super Jumbo",
+               "height":1365,
+               "width":2048,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"",
+               "copyright":"Andrew Testa for The New York Times"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2023/09/25/world/london-parks-promo/london-parks-promo-threeByTwoSmallAt2X.jpg",
+               "format":"threeByTwoSmallAt2X",
+               "height":400,
+               "width":600,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"",
+               "copyright":"Andrew Testa for The New York Times"
+            },
+            {
+               "url":"https://example.com",
+               "format":"Large Thumbnail",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"",
+               "copyright":"Andrew Testa for The New York Times"
+            }
+         ],
+         "short_url":"https://nyti.ms/462LYUb"
+      },
+      {
+         "section":"world",
+         "subsection":"asia",
+         "title":"Philippines Says It Removed Chinese Barrier That Blocked Fishing Boats",
+         "abstract":"With tensions running high in the South China Sea over territorial rights, the Philippines offered a direct challenge to Beijing by instructing its Coast Guard to haul away a Chinese barrier.",
+         "url":"https://www.nytimes.com/2023/09/25/world/asia/philippines-chinese-fishing-barrier.html",
+         "uri":"nyt://article/b0a08a46-0e45-5db9-afd7-ff91d4dcd51f",
+         "byline":"By Eric Nagourney",
+         "item_type":"Article",
+         "updated_date":"2023-09-25T23:08:14-04:00",
+         "created_date":"2023-09-25T17:50:41-04:00",
+         "published_date":"2023-09-25T17:50:41-04:00",
+         "material_type_facet":"",
+         "kicker":"",
+         "des_facet":[
+            "Territorial Disputes",
+            "International Relations",
+            "Fishing, Commercial",
+            "Defense and Military Forces"
+         ],
+         "org_facet":[
+
+         ],
+         "per_facet":[
+
+         ],
+         "geo_facet":[
+            "Philippines",
+            "China",
+            "South China Sea"
+         ],
+         "multimedia":[
+            {
+               "url":"https://static01.nyt.com/images/2023/09/25/multimedia/25philippines-china-jkvq/25philippines-china-jkvq-superJumbo.jpg",
+               "format":"Super Jumbo",
+               "height":873,
+               "width":1310,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"An image taken from video and released on Monday by the Philippine Coast Guard shows a diver cutting through the ropes that kept Chinese barriers in place at the Scarborough Shoal in the South China Sea.",
+               "copyright":"Philippine Coast Guard"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2023/09/25/multimedia/25philippines-china-jkvq/25philippines-china-jkvq-threeByTwoSmallAt2X.jpg",
+               "format":"threeByTwoSmallAt2X",
+               "height":400,
+               "width":600,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"An image taken from video and released on Monday by the Philippine Coast Guard shows a diver cutting through the ropes that kept Chinese barriers in place at the Scarborough Shoal in the South China Sea.",
+               "copyright":"Philippine Coast Guard"
+            },
+            {
+               "url":"https://example.com",
+               "format":"Large Thumbnail",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"An image taken from video and released on Monday by the Philippine Coast Guard shows a diver cutting through the ropes that kept Chinese barriers in place at the Scarborough Shoal in the South China Sea.",
+               "copyright":"Philippine Coast Guard"
+            }
+         ],
+         "short_url":"https://nyti.ms/3Q1KQL7"
+      },
+      {
+         "section":"briefing",
+         "subsection":"",
+         "title":"Tuesday Briefing: Hollywood Writers Reach a Deal",
+         "abstract":"Plus fruits and vegetables for a new climate.",
+         "url":"https://www.nytimes.com/2023/09/25/briefing/hollywood-writers-strike-ukraine-dengue-fever-bangladesh.html",
+         "uri":"nyt://article/195abc62-6a2d-59f1-9bac-402ff4166058",
+         "byline":"By Justin Porter",
+         "item_type":"Article",
+         "updated_date":"2023-09-25T16:55:59-04:00",
+         "created_date":"2023-09-25T16:34:46-04:00",
+         "published_date":"2023-09-25T16:34:46-04:00",
+         "material_type_facet":"",
+         "kicker":"",
+         "des_facet":[
+            "Russian Invasion of Ukraine (2022)",
+            "Dengue Fever"
+         ],
+         "org_facet":[
+
+         ],
+         "per_facet":[
+
+         ],
+         "geo_facet":[
+            "Far East, South and Southeast Asia and Pacific Areas",
+            "Hollywood (Calif)",
+            "Bangladesh"
+         ],
+         "multimedia":[
+            {
+               "url":"https://static01.nyt.com/images/2023/09/25/multimedia/25Strike-jpvl-strikenl/25Strike-jpvl-strikenl-superJumbo-v3.jpg",
+               "format":"Super Jumbo",
+               "height":2048,
+               "width":2048,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Striking Hollywood writers and actors picketing in Los Angeles on Friday.",
+               "copyright":"Jenna Schoenefeld for The New York Times"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2023/09/25/multimedia/25Strike-jpvl-strikenl/25Strike-jpvl-strikenl-threeByTwoSmallAt2X-v3.jpg",
+               "format":"threeByTwoSmallAt2X",
+               "height":400,
+               "width":600,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Striking Hollywood writers and actors picketing in Los Angeles on Friday.",
+               "copyright":"Jenna Schoenefeld for The New York Times"
+            },
+            {
+               "url":"https://example.com",
+               "format":"Large Thumbnail",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Striking Hollywood writers and actors picketing in Los Angeles on Friday.",
+               "copyright":"Jenna Schoenefeld for The New York Times"
+            }
+         ],
+         "short_url":"https://nyti.ms/3t9yN5l"
+      },
+      {
+         "section":"us",
+         "subsection":"politics",
+         "title":"Biden Hosts Pacific Islands, With a Rising China in Mind",
+         "abstract":"The event at the White House was part of an administration effort to deepen ties with a string of small but strategic nations.",
+         "url":"https://www.nytimes.com/2023/09/25/us/politics/biden-pacific-islands-china.html",
+         "uri":"nyt://article/5e11a39c-13ac-5d73-b4b8-6892463f7677",
+         "byline":"By Michael Crowley",
+         "item_type":"Article",
+         "updated_date":"2023-09-26T00:04:46-04:00",
+         "created_date":"2023-09-25T16:10:51-04:00",
+         "published_date":"2023-09-25T16:10:51-04:00",
+         "material_type_facet":"",
+         "kicker":"",
+         "des_facet":[
+            "International Relations",
+            "United States International Relations",
+            "Islands"
+         ],
+         "org_facet":[
+
+         ],
+         "per_facet":[
+            "Biden, Joseph R Jr"
+         ],
+         "geo_facet":[
+            "Pacific Ocean",
+            "Solomon Islands",
+            "China"
+         ],
+         "multimedia":[
+            {
+               "url":"https://static01.nyt.com/images/2023/09/25/multimedia/25dc-prexy-01-tpjm/25dc-prexy-01-tpjm-superJumbo.jpg",
+               "format":"Super Jumbo",
+               "height":1365,
+               "width":2048,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"President Biden with leaders of Pacific Island nations at the White House on Monday. Over the past year, the United States has opened embassies in the Solomon Islands and Tonga, and plans to open one next year in Vanuatu.",
+               "copyright":"Haiyun Jiang for The New York Times"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2023/09/25/multimedia/25dc-prexy-01-tpjm/25dc-prexy-01-tpjm-threeByTwoSmallAt2X.jpg",
+               "format":"threeByTwoSmallAt2X",
+               "height":400,
+               "width":600,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"President Biden with leaders of Pacific Island nations at the White House on Monday. Over the past year, the United States has opened embassies in the Solomon Islands and Tonga, and plans to open one next year in Vanuatu.",
+               "copyright":"Haiyun Jiang for The New York Times"
+            },
+            {
+               "url":"https://example.com",
+               "format":"Large Thumbnail",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"President Biden with leaders of Pacific Island nations at the White House on Monday. Over the past year, the United States has opened embassies in the Solomon Islands and Tonga, and plans to open one next year in Vanuatu.",
+               "copyright":"Haiyun Jiang for The New York Times"
+            }
+         ],
+         "short_url":"https://nyti.ms/3t2Vrfr"
+      },
+      {
+         "section":"world",
+         "subsection":"europe",
+         "title":"Hundreds Injured After Fuel Depot Blast in Nagorno-Karabakh, Official Says",
+         "abstract":"The blast occurred as ethnic Armenians were fleeing the breakaway region that had returned to the control of Azerbaijan.",
+         "url":"https://www.nytimes.com/2023/09/25/world/europe/azerbaijan-nagorno-karabakh-explosion.html",
+         "uri":"nyt://article/ed3eadb1-4778-5cf5-9b15-a28680ca808e",
+         "byline":"By Ivan Nechepurenko",
+         "item_type":"Article",
+         "updated_date":"2023-09-25T23:31:37-04:00",
+         "created_date":"2023-09-25T15:30:00-04:00",
+         "published_date":"2023-09-25T15:30:00-04:00",
+         "material_type_facet":"",
+         "kicker":"",
+         "des_facet":[
+            "Armenians",
+            "Explosions (Accidental)"
+         ],
+         "org_facet":[
+
+         ],
+         "per_facet":[
+
+         ],
+         "geo_facet":[
+            "Azerbaijan",
+            "Nagorno-Karabakh",
+            "Stepanakert (Nagorno-Karabakh Republic)"
+         ],
+         "multimedia":[
+            {
+               "url":"https://static01.nyt.com/images/2023/09/25/multimedia/25nagorno-karabakh-1-cptl/25nagorno-karabakh-1-cptl-superJumbo.jpg",
+               "format":"Super Jumbo",
+               "height":1364,
+               "width":2048,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"An image from a social media video purporting to show smoke from a fuel depot explosion on Monday near Stepanakert in the Nagorno-Karabakh region.",
+               "copyright":"Siranush Sargsyan/X, via Associated Press"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2023/09/25/multimedia/25nagorno-karabakh-1-cptl/25nagorno-karabakh-1-cptl-threeByTwoSmallAt2X.jpg",
+               "format":"threeByTwoSmallAt2X",
+               "height":400,
+               "width":600,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"An image from a social media video purporting to show smoke from a fuel depot explosion on Monday near Stepanakert in the Nagorno-Karabakh region.",
+               "copyright":"Siranush Sargsyan/X, via Associated Press"
+            },
+            {
+               "url":"https://example.com",
+               "format":"Large Thumbnail",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"An image from a social media video purporting to show smoke from a fuel depot explosion on Monday near Stepanakert in the Nagorno-Karabakh region.",
+               "copyright":"Siranush Sargsyan/X, via Associated Press"
+            }
+         ],
+         "short_url":"https://nyti.ms/3ERjAZ7"
+      },
+      {
+         "section":"world",
+         "subsection":"europe",
+         "title":"Canada’s House Speaker Apologizes After Ukrainian Who Fought for Nazis Was Honored",
+         "abstract":"Jewish groups demanded an explanation after Anthony Rota, the speaker of Canada’s House of Commons, introduced a 98-year-old veteran of an SS unit as a “hero.”",
+         "url":"https://www.nytimes.com/2023/09/25/world/europe/canada-ukraine-nazi-apology.html",
+         "uri":"nyt://article/254f9c73-c778-5bad-a81e-6430588c9f19",
+         "byline":"By Isabella Kwai",
+         "item_type":"Article",
+         "updated_date":"2023-09-25T12:27:01-04:00",
+         "created_date":"2023-09-25T12:27:01-04:00",
+         "published_date":"2023-09-25T12:27:01-04:00",
+         "material_type_facet":"",
+         "kicker":"",
+         "des_facet":[
+            "Holocaust and the Nazi Era",
+            "War Crimes, Genocide and Crimes Against Humanity",
+            "Russian Invasion of Ukraine (2022)",
+            "Legislatures and Parliaments"
+         ],
+         "org_facet":[
+
+         ],
+         "per_facet":[
+
+         ],
+         "geo_facet":[
+            "Canada"
+         ],
+         "multimedia":[
+            {
+               "url":"https://static01.nyt.com/images/2023/09/25/multimedia/25ukraine-briefing-canada-speaker-kmbl/25ukraine-briefing-canada-speaker-kmbl-superJumbo.jpg",
+               "format":"Super Jumbo",
+               "height":1365,
+               "width":2048,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Yaroslav Hunka, right, who served in a Nazi unit in World War II, in the House of Commons in Ottawa on Friday. His introduction coincided with President Volodymyr Zelensky’s visit to Canada.",
+               "copyright":"Patrick Doyle/The Canadian Press, via Associated Press"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2023/09/25/multimedia/25ukraine-briefing-canada-speaker-kmbl/25ukraine-briefing-canada-speaker-kmbl-threeByTwoSmallAt2X.jpg",
+               "format":"threeByTwoSmallAt2X",
+               "height":400,
+               "width":600,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Yaroslav Hunka, right, who served in a Nazi unit in World War II, in the House of Commons in Ottawa on Friday. His introduction coincided with President Volodymyr Zelensky’s visit to Canada.",
+               "copyright":"Patrick Doyle/The Canadian Press, via Associated Press"
+            },
+            {
+               "url":"https://example.com",
+               "format":"Large Thumbnail",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Yaroslav Hunka, right, who served in a Nazi unit in World War II, in the House of Commons in Ottawa on Friday. His introduction coincided with President Volodymyr Zelensky’s visit to Canada.",
+               "copyright":"Patrick Doyle/The Canadian Press, via Associated Press"
+            }
+         ],
+         "short_url":"https://nyti.ms/463j2LS"
+      },
+      {
+         "section":"world",
+         "subsection":"asia",
+         "title":"Deadly Dengue Fever Outbreak in Bangladesh Strains Scarce Resources",
+         "abstract":"More than 900 people have died this year from the mosquito-borne virus, whose spread has brought rural residents to already overwhelmed hospitals in the capital, Dhaka.",
+         "url":"https://www.nytimes.com/2023/09/25/world/asia/bangladesh-dengue-fever-outbreak.html",
+         "uri":"nyt://article/34e1c9ed-d445-538f-8585-5e2a73dc1707",
+         "byline":"By Saif Hasnat and Sameer Yasir",
+         "item_type":"Article",
+         "updated_date":"2023-09-25T09:27:11-04:00",
+         "created_date":"2023-09-25T07:30:58-04:00",
+         "published_date":"2023-09-25T07:30:58-04:00",
+         "material_type_facet":"",
+         "kicker":"",
+         "des_facet":[
+            "Dengue Fever",
+            "Global Warming",
+            "Hospitals"
+         ],
+         "org_facet":[
+            "World Health Organization"
+         ],
+         "per_facet":[
+            "Tedros Adhanom Ghebreyesus"
+         ],
+         "geo_facet":[
+            "Bangladesh"
+         ],
+         "multimedia":[
+            {
+               "url":"https://static01.nyt.com/images/2023/09/25/multimedia/25bangladesh-dengue-kgwc/25bangladesh-dengue-kgwc-superJumbo.jpg",
+               "format":"Super Jumbo",
+               "height":1367,
+               "width":2048,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Patients with dengue fever at a hospital in Dhaka, Bangladesh, earlier this month.",
+               "copyright":"Mahmud Hossain Opu/Associated Press"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2023/09/25/multimedia/25bangladesh-dengue-kgwc/25bangladesh-dengue-kgwc-threeByTwoSmallAt2X.jpg",
+               "format":"threeByTwoSmallAt2X",
+               "height":400,
+               "width":600,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Patients with dengue fever at a hospital in Dhaka, Bangladesh, earlier this month.",
+               "copyright":"Mahmud Hossain Opu/Associated Press"
+            },
+            {
+               "url":"https://example.com",
+               "format":"Large Thumbnail",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Patients with dengue fever at a hospital in Dhaka, Bangladesh, earlier this month.",
+               "copyright":"Mahmud Hossain Opu/Associated Press"
+            }
+         ],
+         "short_url":"https://nyti.ms/3sZ9Rxa"
+      },
+      {
+         "section":"world",
+         "subsection":"europe",
+         "title":"First Abrams Tanks Arrive in Ukraine, Zelensky Says",
+         "abstract":"U.S. officials said that an initial batch of the 31 M1 Abrams tanks promised to Ukraine by the Biden administration had been delivered, months ahead of estimates.",
+         "url":"https://www.nytimes.com/2023/09/25/world/europe/us-abrams-tanks-ukraine.html",
+         "uri":"nyt://article/e16dbdb3-6ea8-5619-9f18-60074f63d5f4",
+         "byline":"By Lara Jakes",
+         "item_type":"Article",
+         "updated_date":"2023-09-25T12:52:36-04:00",
+         "created_date":"2023-09-25T06:22:55-04:00",
+         "published_date":"2023-09-25T06:22:55-04:00",
+         "material_type_facet":"",
+         "kicker":"",
+         "des_facet":[
+            "War and Armed Conflicts",
+            "Defense and Military Forces",
+            "Russian Invasion of Ukraine (2022)",
+            "Military Vehicles"
+         ],
+         "org_facet":[
+
+         ],
+         "per_facet":[
+
+         ],
+         "geo_facet":[
+
+         ],
+         "multimedia":[
+            {
+               "url":"https://static01.nyt.com/images/2023/09/25/world/25ukraine-briefing-abrams/25ukraine-briefing-abrams-superJumbo.jpg",
+               "format":"Super Jumbo",
+               "height":1365,
+               "width":2048,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"An American-made Abrams tank during a military training exercise in Niinisalo, Finland, in May.",
+               "copyright":"Antti Aimo-Koivisto/Lehtikuva, via Agence France-Presse — Getty Images"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2023/09/25/world/25ukraine-briefing-abrams/25ukraine-briefing-abrams-threeByTwoSmallAt2X.jpg",
+               "format":"threeByTwoSmallAt2X",
+               "height":400,
+               "width":600,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"An American-made Abrams tank during a military training exercise in Niinisalo, Finland, in May.",
+               "copyright":"Antti Aimo-Koivisto/Lehtikuva, via Agence France-Presse — Getty Images"
+            },
+            {
+               "url":"https://example.com",
+               "format":"Large Thumbnail",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"An American-made Abrams tank during a military training exercise in Niinisalo, Finland, in May.",
+               "copyright":"Antti Aimo-Koivisto/Lehtikuva, via Agence France-Presse — Getty Images"
+            }
+         ],
+         "short_url":"https://nyti.ms/3rqWZQ5"
+      },
+      {
+         "section":"world",
+         "subsection":"europe",
+         "title":"Matteo Messina Denaro, Long-Sought Italian Mafia Boss, Dies at 61",
+         "abstract":"A high-ranking member of the Cosa Nostra, he was arrested in January after decades on the run. He was found through medical records related to his cancer treatment.",
+         "url":"https://www.nytimes.com/2023/09/25/world/europe/matteo-messina-denaro-dead.html",
+         "uri":"nyt://article/7b85f8a1-ea4b-5ed0-a65f-c9252660855e",
+         "byline":"By Elisabetta Povoledo and Gaia Pianigiani",
+         "item_type":"Article",
+         "updated_date":"2023-09-25T23:14:08-04:00",
+         "created_date":"2023-09-25T00:07:51-04:00",
+         "published_date":"2023-09-25T00:07:51-04:00",
+         "material_type_facet":"",
+         "kicker":"",
+         "des_facet":[
+            "Organized Crime",
+            "Deaths (Obituaries)"
+         ],
+         "org_facet":[
+            "Cosa Nostra"
+         ],
+         "per_facet":[
+            "Messina Denaro, Matteo"
+         ],
+         "geo_facet":[
+            "Sicily (Italy)"
+         ],
+         "multimedia":[
+            {
+               "url":"https://static01.nyt.com/images/2023/09/26/multimedia/23messina-denaro-01-wgkp/23messina-denaro-01-wgkp-superJumbo.jpg",
+               "format":"Super Jumbo",
+               "height":1294,
+               "width":1939,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"A screen grab taken from a video showing Matteo Messina Denaro being escorted out of a police station in January after his arrest in Palermo, Sicily.",
+               "copyright":"Italian Carabinieri Press Office"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2023/09/26/multimedia/23messina-denaro-01-wgkp/23messina-denaro-01-wgkp-threeByTwoSmallAt2X.jpg",
+               "format":"threeByTwoSmallAt2X",
+               "height":401,
+               "width":600,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"A screen grab taken from a video showing Matteo Messina Denaro being escorted out of a police station in January after his arrest in Palermo, Sicily.",
+               "copyright":"Italian Carabinieri Press Office"
+            },
+            {
+               "url":"https://example.com",
+               "format":"Large Thumbnail",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"A screen grab taken from a video showing Matteo Messina Denaro being escorted out of a police station in January after his arrest in Palermo, Sicily.",
+               "copyright":"Italian Carabinieri Press Office"
+            }
+         ],
+         "short_url":"https://nyti.ms/3tcJB2l"
+      },
+      {
+         "section":"briefing",
+         "subsection":"",
+         "title":"Monday Briefing",
+         "abstract":"Europe’s struggle to supply Ukraine",
+         "url":"https://www.nytimes.com/2023/09/25/briefing/ukraine-hollywood-strike-deal.html",
+         "uri":"nyt://article/419658e4-5791-512c-a640-b0fb09b1eb91",
+         "byline":"By Jonathan Wolfe",
+         "item_type":"Article",
+         "updated_date":"2023-09-25T00:02:05-04:00",
+         "created_date":"2023-09-25T00:02:05-04:00",
+         "published_date":"2023-09-25T00:02:05-04:00",
+         "material_type_facet":"",
+         "kicker":"",
+         "des_facet":[
+
+         ],
+         "org_facet":[
+
+         ],
+         "per_facet":[
+
+         ],
+         "geo_facet":[
+
+         ],
+         "multimedia":[
+            {
+               "url":"https://static01.nyt.com/images/2023/08/22/multimedia/23ambriefing-europe-nl-promo-aug/23ambriefing-europe-nl-promo-aug-superJumbo.jpg",
+               "format":"Super Jumbo",
+               "height":2048,
+               "width":2047,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Ukrainian marines training in the Zaporizhzhia region before heading to the frontline. American officials say more Ukrainian forces should be near Zaporizhzhia and in the south of the country.",
+               "copyright":"David Guttenfelder for The New York Times"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2023/08/22/multimedia/23ambriefing-europe-nl-promo-aug/23ambriefing-europe-nl-promo-aug-threeByTwoSmallAt2X.jpg",
+               "format":"threeByTwoSmallAt2X",
+               "height":400,
+               "width":600,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Ukrainian marines training in the Zaporizhzhia region before heading to the frontline. American officials say more Ukrainian forces should be near Zaporizhzhia and in the south of the country.",
+               "copyright":"David Guttenfelder for The New York Times"
+            },
+            {
+               "url":"https://example.com",
+               "format":"Large Thumbnail",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Ukrainian marines training in the Zaporizhzhia region before heading to the frontline. American officials say more Ukrainian forces should be near Zaporizhzhia and in the south of the country.",
+               "copyright":"David Guttenfelder for The New York Times"
+            }
+         ],
+         "short_url":"https://nyti.ms/3rrb7c4"
+      },
+      {
+         "section":"world",
+         "subsection":"europe",
+         "title":"A Small German City Staves Off a Threat From the Far Right",
+         "abstract":"Voters on Sunday rejected the candidate for the hard-line Alternative for Germany Party, which is rattling German national politics, in the race for mayor in the city of Nordhausen.",
+         "url":"https://www.nytimes.com/2023/09/24/world/europe/germany-afd-mayor-election.html",
+         "uri":"nyt://article/51d5c026-21f5-5bfd-b78a-2677a03f2ed6",
+         "byline":"By Christopher F. Schuetze",
+         "item_type":"Article",
+         "updated_date":"2023-09-25T10:34:23-04:00",
+         "created_date":"2023-09-24T18:02:22-04:00",
+         "published_date":"2023-09-24T18:02:22-04:00",
+         "material_type_facet":"",
+         "kicker":"",
+         "des_facet":[
+            "Elections",
+            "Right-Wing Extremism and Alt-Right",
+            "Mayors",
+            "Politics and Government",
+            "Polls and Public Opinion",
+            "Immigration and Emigration",
+            "Local Government"
+         ],
+         "org_facet":[
+            "Alternative for Germany",
+            "Christian Democratic Union (Germany)",
+            "Social Democratic Party (Germany)"
+         ],
+         "per_facet":[
+            "Scholz, Olaf (1958- )",
+            "Prophet, Jorg",
+            "Buchmann, Kai"
+         ],
+         "geo_facet":[
+            "Nordhausen (Germany)"
+         ],
+         "multimedia":[
+            {
+               "url":"https://static01.nyt.com/images/2023/09/24/multimedia/24germany-afd-01-ghtj/24germany-afd-01-ghtj-superJumbo.jpg",
+               "format":"Super Jumbo",
+               "height":1364,
+               "width":2048,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Jörg Prophet, right, of the far-right party Alternative for Germany, campaigning last week in Nordhausen.",
+               "copyright":"Ronny Hartmann/Agence France-Presse — Getty Images"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2023/09/24/multimedia/24germany-afd-01-ghtj/24germany-afd-01-ghtj-threeByTwoSmallAt2X.jpg",
+               "format":"threeByTwoSmallAt2X",
+               "height":400,
+               "width":600,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Jörg Prophet, right, of the far-right party Alternative for Germany, campaigning last week in Nordhausen.",
+               "copyright":"Ronny Hartmann/Agence France-Presse — Getty Images"
+            },
+            {
+               "url":"https://example.com",
+               "format":"Large Thumbnail",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Jörg Prophet, right, of the far-right party Alternative for Germany, campaigning last week in Nordhausen.",
+               "copyright":"Ronny Hartmann/Agence France-Presse — Getty Images"
+            }
+         ],
+         "short_url":"https://nyti.ms/48tKnbK"
+      },
+      {
+         "section":"briefing",
+         "subsection":"",
+         "title":"Monday Briefing: How China Is Walling Off the Sea",
+         "abstract":"Plus pursuing K-pop stardom while being out and proud.",
+         "url":"https://www.nytimes.com/2023/09/24/briefing/south-china-sea-india-canada-sikh-ukraine-moldova.html",
+         "uri":"nyt://article/c6b069f8-26f2-5026-802f-e06bc061361d",
+         "byline":"By Justin Porter",
+         "item_type":"Article",
+         "updated_date":"2023-09-24T16:48:22-04:00",
+         "created_date":"2023-09-24T16:48:22-04:00",
+         "published_date":"2023-09-24T16:48:22-04:00",
+         "material_type_facet":"",
+         "kicker":"",
+         "des_facet":[
+            "Sikhs and Sikhism",
+            "Russian Invasion of Ukraine (2022)"
+         ],
+         "org_facet":[
+            "People's Liberation Army (China)"
+         ],
+         "per_facet":[
+            "Nijjar, Hardeep Singh (1977-2023)"
+         ],
+         "geo_facet":[
+            "Far East, South and Southeast Asia and Pacific Areas",
+            "South China Sea",
+            "China",
+            "Philippines",
+            "Moldova",
+            "Black Sea"
+         ],
+         "multimedia":[
+            {
+               "url":"https://static01.nyt.com/images/2023/08/10/multimedia/00south-china-sea-01-VideoTop-cover-chinanl/00south-china-sea-01-VideoTop-cover-chinanl-superJumbo.jpg",
+               "format":"Super Jumbo",
+               "height":2048,
+               "width":2048,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"A Chinese People’s Liberation Army ship in May off Mischief Reef.",
+               "copyright":"Jes Aznar for The New York Times"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2023/08/10/multimedia/00south-china-sea-01-VideoTop-cover-chinanl/00south-china-sea-01-VideoTop-cover-chinanl-threeByTwoSmallAt2X.jpg",
+               "format":"threeByTwoSmallAt2X",
+               "height":400,
+               "width":600,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"A Chinese People’s Liberation Army ship in May off Mischief Reef.",
+               "copyright":"Jes Aznar for The New York Times"
+            },
+            {
+               "url":"https://example.com",
+               "format":"Large Thumbnail",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"A Chinese People’s Liberation Army ship in May off Mischief Reef.",
+               "copyright":"Jes Aznar for The New York Times"
+            }
+         ],
+         "short_url":"https://nyti.ms/48u2z4Y"
+      },
+      {
+         "section":"world",
+         "subsection":"africa",
+         "title":"France to Withdraw Troops From Niger After Military Coup",
+         "abstract":"President Emmanuel Macron said he had also recalled the country’s ambassador, after weeks of escalating tensions with Niger’s new military leaders.",
+         "url":"https://www.nytimes.com/2023/09/24/world/africa/france-troops-ambassador-niger.html",
+         "uri":"nyt://article/bbb48604-3147-5389-862a-c71fbe26500a",
+         "byline":"By Elian Peltier and Aurelien Breeden",
+         "item_type":"Article",
+         "updated_date":"2023-09-25T00:07:20-04:00",
+         "created_date":"2023-09-24T16:24:01-04:00",
+         "published_date":"2023-09-24T16:24:01-04:00",
+         "material_type_facet":"",
+         "kicker":"",
+         "des_facet":[
+            "Defense and Military Forces",
+            "Coups D'Etat and Attempted Coups D'Etat",
+            "Diplomatic Service, Embassies and Consulates",
+            "Developing Countries",
+            "International Relations",
+            "Politics and Government",
+            "United States International Relations",
+            "Terrorism"
+         ],
+         "org_facet":[
+
+         ],
+         "per_facet":[
+            "Bazoum, Mohamed (1960- )",
+            "Macron, Emmanuel (1977- )"
+         ],
+         "geo_facet":[
+            "Niger",
+            "France",
+            "Africa"
+         ],
+         "multimedia":[
+            {
+               "url":"https://static01.nyt.com/images/2023/09/24/multimedia/24Niger-lqft/24Niger-lqft-superJumbo.jpg",
+               "format":"Super Jumbo",
+               "height":1373,
+               "width":2048,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Supporters of the military junta outside the Niger and French military bases in Niamey this month.",
+               "copyright":"Agence France-Presse — Getty Images"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2023/09/24/multimedia/24Niger-lqft/24Niger-lqft-threeByTwoSmallAt2X.jpg",
+               "format":"threeByTwoSmallAt2X",
+               "height":400,
+               "width":600,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Supporters of the military junta outside the Niger and French military bases in Niamey this month.",
+               "copyright":"Agence France-Presse — Getty Images"
+            },
+            {
+               "url":"https://example.com",
+               "format":"Large Thumbnail",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Supporters of the military junta outside the Niger and French military bases in Niamey this month.",
+               "copyright":"Agence France-Presse — Getty Images"
+            }
+         ],
+         "short_url":"https://nyti.ms/3ZrdTuB"
+      },
+      {
+         "section":"world",
+         "subsection":"europe",
+         "title":"Refugees Flee to Armenia as Breakaway Enclave Comes Under Azerbaijan’s Control",
+         "abstract":"More than 1,000 people crossed the border from the breakaway region of Nagorno-Karabakh on Sunday, days after a military offensive returned the ethnic Armenian enclave to Azerbaijan’s control.",
+         "url":"https://www.nytimes.com/2023/09/24/world/europe/armenians-nagorno-karabakh-azerbaijan.html",
+         "uri":"nyt://article/415917f3-1992-5706-8cf9-45146271b7b2",
+         "byline":"By Ivan Nechepurenko",
+         "item_type":"Article",
+         "updated_date":"2023-09-25T00:13:04-04:00",
+         "created_date":"2023-09-24T12:55:37-04:00",
+         "published_date":"2023-09-24T12:55:37-04:00",
+         "material_type_facet":"",
+         "kicker":"",
+         "des_facet":[
+            "Territorial Disputes",
+            "Refugees and Displaced Persons",
+            "Politics and Government",
+            "War and Armed Conflicts",
+            "Armenians",
+            "International Relations"
+         ],
+         "org_facet":[
+
+         ],
+         "per_facet":[
+            "Pashinyan, Nikol"
+         ],
+         "geo_facet":[
+            "Nagorno-Karabakh",
+            "Armenia",
+            "Azerbaijan"
+         ],
+         "multimedia":[
+            {
+               "url":"https://static01.nyt.com/images/2023/09/24/multimedia/24karabakh01-vpjk/24karabakh01-vpjk-superJumbo.jpg",
+               "format":"Super Jumbo",
+               "height":1537,
+               "width":2048,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Ethnic Armenians arriving from Nagorno-Karabakh in Goris, Armenia, on Sunday.",
+               "copyright":"Nanna Heitmann for The New York Times"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2023/09/24/multimedia/24karabakh01-vpjk/24karabakh01-vpjk-threeByTwoSmallAt2X.jpg",
+               "format":"threeByTwoSmallAt2X",
+               "height":400,
+               "width":600,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Ethnic Armenians arriving from Nagorno-Karabakh in Goris, Armenia, on Sunday.",
+               "copyright":"Nanna Heitmann for The New York Times"
+            },
+            {
+               "url":"https://example.com",
+               "format":"Large Thumbnail",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Ethnic Armenians arriving from Nagorno-Karabakh in Goris, Armenia, on Sunday.",
+               "copyright":"Nanna Heitmann for The New York Times"
+            }
+         ],
+         "short_url":"https://nyti.ms/3PNvDgi"
+      },
+      {
+         "section":"world",
+         "subsection":"europe",
+         "title":"Amid Black Sea Threats, Ukraine Steps Up Use of New Shipping Route",
+         "abstract":"The route has allowed Kyiv to revive exports of grain and other goods across the Black Sea despite Russia’s wartime threats to commercial shipping.",
+         "url":"https://www.nytimes.com/2023/09/24/world/europe/ukraine-russia-news.html",
+         "uri":"nyt://article/e0e9380f-4049-5cea-8f38-84e8bbf8379d",
+         "byline":"By Matthew Mpoke Bigg",
+         "item_type":"Article",
+         "updated_date":"2023-09-26T06:24:47-04:00",
+         "created_date":"2023-09-24T06:41:50-04:00",
+         "published_date":"2023-09-24T06:41:50-04:00",
+         "material_type_facet":"",
+         "kicker":"",
+         "des_facet":[
+            "Russian Invasion of Ukraine (2022)",
+            "Grain",
+            "Ships and Shipping"
+         ],
+         "org_facet":[
+
+         ],
+         "per_facet":[
+
+         ],
+         "geo_facet":[
+            "Ukraine",
+            "Russia"
+         ],
+         "multimedia":[
+            {
+               "url":"https://static01.nyt.com/images/2023/09/24/multimedia/24ukraine-ledeall-01-jmwk/24ukraine-ledeall-01-jmwk-superJumbo.jpg",
+               "format":"Super Jumbo",
+               "height":1363,
+               "width":2048,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"The bulk carrier Eneida approaching a seaport near Odesa, Ukraine, on Friday.",
+               "copyright":"Igor Tkachenko/EPA, via Shutterstock"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2023/09/24/multimedia/24ukraine-ledeall-01-jmwk/24ukraine-ledeall-01-jmwk-threeByTwoSmallAt2X.jpg",
+               "format":"threeByTwoSmallAt2X",
+               "height":400,
+               "width":600,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"The bulk carrier Eneida approaching a seaport near Odesa, Ukraine, on Friday.",
+               "copyright":"Igor Tkachenko/EPA, via Shutterstock"
+            },
+            {
+               "url":"https://example.com",
+               "format":"Large Thumbnail",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"The bulk carrier Eneida approaching a seaport near Odesa, Ukraine, on Friday.",
+               "copyright":"Igor Tkachenko/EPA, via Shutterstock"
+            }
+         ],
+         "short_url":"https://nyti.ms/3riZ0xQ"
+      },
+      {
+         "section":"world",
+         "subsection":"asia",
+         "title":"Uncertainty ‘Is Killing Us’: Sikhs in India Are in Limbo Amid Canada Dispute",
+         "abstract":"With Canada home to the largest Sikh population outside India, many Punjabis are caught in a diplomatic firestorm over the death of a separatist leader in British Columbia.",
+         "url":"https://www.nytimes.com/2023/09/24/world/asia/india-canada-sikh-punjab.html",
+         "uri":"nyt://article/f9a55d6f-a973-56b9-8581-354dbba9862d",
+         "byline":"By Suhasini Raj",
+         "item_type":"Article",
+         "updated_date":"2023-09-25T00:12:39-04:00",
+         "created_date":"2023-09-24T06:18:34-04:00",
+         "published_date":"2023-09-24T06:18:34-04:00",
+         "material_type_facet":"",
+         "kicker":"",
+         "des_facet":[
+            "Sikhs and Sikhism",
+            "Murders, Attempted Murders and Homicides",
+            "International Relations"
+         ],
+         "org_facet":[
+
+         ],
+         "per_facet":[
+            "Nijjar, Hardeep Singh (1977-2023)"
+         ],
+         "geo_facet":[
+            "India",
+            "Punjab (India)",
+            "Canada"
+         ],
+         "multimedia":[
+            {
+               "url":"https://static01.nyt.com/images/2023/09/24/multimedia/24punjab-canada-hjwc/24punjab-canada-hjwc-superJumbo.jpg",
+               "format":"Super Jumbo",
+               "height":1365,
+               "width":2048,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Praying at a gurdwara, a Sikh place of worship, in Punjab, a majority-Sikh state in India that has a special bond with Canada.",
+               "copyright":"Atul Loke for The New York Times"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2023/09/24/multimedia/24punjab-canada-hjwc/24punjab-canada-hjwc-threeByTwoSmallAt2X.jpg",
+               "format":"threeByTwoSmallAt2X",
+               "height":400,
+               "width":600,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Praying at a gurdwara, a Sikh place of worship, in Punjab, a majority-Sikh state in India that has a special bond with Canada.",
+               "copyright":"Atul Loke for The New York Times"
+            },
+            {
+               "url":"https://example.com",
+               "format":"Large Thumbnail",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Praying at a gurdwara, a Sikh place of worship, in Punjab, a majority-Sikh state in India that has a special bond with Canada.",
+               "copyright":"Atul Loke for The New York Times"
+            }
+         ],
+         "short_url":"https://nyti.ms/3LzT0HY"
+      },
+      {
+         "section":"world",
+         "subsection":"asia",
+         "title":"Star Uyghur Scholar Who Vanished Was Sentenced to Life in China",
+         "abstract":"Rahile Dawut, who recorded her people’s traditions, disappeared in 2017. New information indicates that she faces decades in prison.",
+         "url":"https://www.nytimes.com/2023/09/24/world/asia/rahile-dawut-uyghur-china.html",
+         "uri":"nyt://article/31a8505f-16a8-5646-8371-3a26ab38e5f2",
+         "byline":"By Tiffany May",
+         "item_type":"Article",
+         "updated_date":"2023-09-25T13:19:22-04:00",
+         "created_date":"2023-09-24T05:09:20-04:00",
+         "published_date":"2023-09-24T05:09:20-04:00",
+         "material_type_facet":"",
+         "kicker":"",
+         "des_facet":[
+            "Uighurs (Chinese Ethnic Group)",
+            "Political Prisoners"
+         ],
+         "org_facet":[
+            "Dui Hua"
+         ],
+         "per_facet":[
+            "Dawut, Rahile"
+         ],
+         "geo_facet":[
+            "Urumqi (China)",
+            "Xinjiang (China)"
+         ],
+         "multimedia":[
+            {
+               "url":"https://static01.nyt.com/images/2023/09/24/multimedia/24uyghur-professor-01-vcgp/24uyghur-professor-01-vcgp-superJumbo.jpg",
+               "format":"Super Jumbo",
+               "height":1365,
+               "width":2048,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Rahile Dawut, center, interviewing people at a wedding in 2005 in the Xinjiang region of China.",
+               "copyright":"Lisa Ross"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2023/09/24/multimedia/24uyghur-professor-01-vcgp/24uyghur-professor-01-vcgp-threeByTwoSmallAt2X.jpg",
+               "format":"threeByTwoSmallAt2X",
+               "height":400,
+               "width":600,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Rahile Dawut, center, interviewing people at a wedding in 2005 in the Xinjiang region of China.",
+               "copyright":"Lisa Ross"
+            },
+            {
+               "url":"https://example.com",
+               "format":"Large Thumbnail",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Rahile Dawut, center, interviewing people at a wedding in 2005 in the Xinjiang region of China.",
+               "copyright":"Lisa Ross"
+            }
+         ],
+         "short_url":"https://nyti.ms/3ZrSS2T"
+      }
+   ]
+}
